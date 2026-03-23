@@ -8,5 +8,9 @@ int main()
 
 
     // Tnis is first commit.
+    // This is second commit
+    // Check status
+    // Amend last commit.
+    // Fixup Previous commit
     return 0;
 }
