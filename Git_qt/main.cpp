@@ -12,7 +12,7 @@ int main()
 
     cout << "This is come from github server!!! \n";
 
-    cout << "THIS IS PULLLLLLLLLLLLLLLLL!!!!! \n"
+    cout << "THIS IS PULLLLLLLLLLLLLLLLL!!!!!! \n"
 
 
     // Tnis is first commit.
