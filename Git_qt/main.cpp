@@ -12,5 +12,7 @@ int main()
     // Check status
     // Amend last commit.
     // Fixup Previous commit
+
+    // Reset_test
     return 0;
 }
