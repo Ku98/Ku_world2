@@ -10,6 +10,8 @@ int main()
     cout << "### This is test for Merge “sub_branch” into “main” (No Fast-Forward) \n";
     cout << "Complete to push data on github \n";
 
+    cout << "This is come from github server!!! \n";
+
 
     // Tnis is first commit.
     // This is second commit
