@@ -5,6 +5,7 @@ using namespace std;
 int main()
 {
     cout << "This is for git hub and QT test!" << endl;
+    cout << "## This is main branch! \n";
 
 
     // Tnis is first commit.
