@@ -7,6 +7,8 @@ int main()
     cout << "This is for git hub and QT test!" << endl;
     cout << "## MODIFIED : THIS IS SUB BRANCH!!!!! \n";
 
+    cout << "### This is test for Merge “sub_branch” into “main” (No Fast-Forward) \n";
+
 
     // Tnis is first commit.
     // This is second commit
