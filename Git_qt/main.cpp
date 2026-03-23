@@ -12,7 +12,10 @@ int main()
 
     cout << "This is come from github server!!! \n";
 
-    cout << "THIS IS PULLLLLLLLLLLLLLLLL!!!!!! \n"
+    cout << "THIS IS PULLLLLLLLLLLLLLLLL!!!!!! \n";
+
+
+    cout << "THIS was wrote by slave!!! \n";
 
 
     // Tnis is first commit.
