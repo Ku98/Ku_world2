@@ -8,6 +8,7 @@ int main()
     cout << "## MODIFIED : THIS IS SUB BRANCH!!!!! \n";
 
     cout << "### This is test for Merge “sub_branch” into “main” (No Fast-Forward) \n";
+    cout << "Complete to push data on github \n";
 
 
     // Tnis is first commit.
